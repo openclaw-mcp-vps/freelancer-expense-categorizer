@@ -1,0 +1,3 @@
+// Prisma is intentionally not used in this project.
+// Persistence is implemented with direct filesystem JSON in lib/db.ts
+// to avoid ORM codegen/deploy issues in serverless builds.
